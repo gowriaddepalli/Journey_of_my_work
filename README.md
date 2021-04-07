@@ -23,6 +23,8 @@
  - Literature/podcasts (Gives me the ability to write and communicate better and think creatively).
  - Effective Communication/Collaboration and Management.
  - How to deal with Uncertainity and abstractness in the world?
+ - Leadership
+ - Women In Technology.
 
 **I feel these skills culminated over a period of time shall help me be a contributor to the product world holistically.**
 
