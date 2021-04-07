@@ -11,7 +11,7 @@
  
  -> **How to build robust large scale products ??**
  
- ## Key Subjects Of Interest: (Thats a lot, but life is about learning!)
+ ## Key Subjects Of Interest: (That's a lot, but life is about learning!)
  
  - Software Engineering (Backend, Data, ML/Distributed Systems, Software Engineering principles)
  - AI Applied R&D (Mathematics,Statistics,Machine Learning,Deep Learning,Computer Vision, Natural Language processing, Reinforcement Learning)
@@ -21,7 +21,7 @@
  - Finance (How stock markets and business models of companies work? Venture Capitalism, Investment Strategies).
  - Product Management (Ideation of product ideas, Long term roadmap of a product, learn to build startups(products) basically).
  - Literature/podcasts (Gives me the ability to write and communicate better and think creatively).
- - Effective Communication/collaboration and Management.
+ - Effective Communication/Collaboration and Management.
  - How to deal with Uncertainity and abstractness in the world?
 
 **I feel these skills culminated over a period of time shall help me be a contributor to the product world holistically.**
