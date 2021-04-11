@@ -9,7 +9,7 @@
 
 - This blog is maintained to figure out a lot of stuff a curious brain is trying to make to understand with the only ulterior Agenda (Trying to reach the global minima) :
  
- -> **How to build robust large scale products ??**
+ ## **How to build robust large scale products ??**
  
  #### Key Subjects Of Interest: (That's a lot, but life is about learning!)
  
@@ -27,8 +27,7 @@
  - Women In Technology.
 
 
-** Skills that are in bold, are the depth focus areas of mine.
-**I feel these skills culminated over a period of time shall help me be a contributor to the product world holistically.**
+** Skills that are in bold, are the depth focus areas of mine. I feel these skills culminated over a period of time shall help me be a contributor to the product world holistically.**
 
 
 
