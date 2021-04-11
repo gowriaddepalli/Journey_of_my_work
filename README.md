@@ -13,7 +13,7 @@
  
  ## Key Subjects Of Interest: (That's a lot, but life is about learning!)
  
- - Software Engineering (Backend, Data, ML/Distributed Systems, MLOps **Software Engineering principles**)
+ - Software Engineering (Backend, Data, ML/Distributed Systems, MLOps, **Software Engineering principles**)
  - AI Applied R&D (Mathematics, Statistics, Machine Learning,**Deep Learning**,**Computer Vision**, Natural Language processing, Reinforcement Learning)
  - Programming Languages (Object Oriented and Functional Programming){**Java, Python**, Scala, C++}
  - **Algorithms**
