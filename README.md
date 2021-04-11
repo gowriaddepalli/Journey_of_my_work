@@ -34,7 +34,7 @@
 
 #### Current skill focus:
 
-- Bringing ML Research/Ideation to Production (ML Systems, Computer Vision).
+- **Bringing ML Research/Ideation to Production (ML Systems, Computer Vision).**
 - I have/am trying to build these skillsets by demonstrating it via degrees, internship, Mooc certification, Github, Hackathon, competition, exams, Blog posts etc.
 
 ###### You can reach out to me at addepalligowri@gmail.com if you want to chat with me along these lines.
