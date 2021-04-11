@@ -1,6 +1,6 @@
 # Musings_of_my_work
 
-## Disclaimer: All the views are solely mine here.
+###### Disclaimer: All the views are solely mine here.
 
 - This describes the journey of my work where I started learning key skills.
 - My journey has been a sine wave (Lots of learnings throughs the ups and downs).
