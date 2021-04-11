@@ -11,7 +11,7 @@
  
  -> **How to build robust large scale products ??**
  
- ## Key Subjects Of Interest: (That's a lot, but life is about learning!)
+ #### Key Subjects Of Interest: (That's a lot, but life is about learning!)
  
  - Software Engineering (Backend, Data, ML/Distributed Systems, MLOps, **Software Engineering principles**)
  - AI Applied R&D (Mathematics, Statistics, Machine Learning,**Deep Learning**,**Computer Vision**, Natural Language processing, Reinforcement Learning)
@@ -33,7 +33,7 @@
 
 
 
-## Current skill focus:
+#### Current skill focus:
 
 - Bringing ML Research/Ideation to Production (ML Systems, Computer Vision).
 - I have/am trying to build these skillsets by demonstrating it via degrees, internship, Mooc certification, Github, Hackathon, competition, exams, Blog posts etc.
